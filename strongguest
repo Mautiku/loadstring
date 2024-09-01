@@ -1,2 +1,2 @@
 -- keep use this actual link to gets for updates (i promise i won't delete this script no matter what)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))())
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt"))()
