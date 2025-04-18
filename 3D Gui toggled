@@ -1,0 +1,5 @@
+-- Yoi can change keybind by replace the F bind
+-- SussyxdDdDd
+_G.ToggleKeybind = Enum.KeyCode.F
+loadstring(game:HttpGet("https://pastebin.com/raw/hR2R1hu1"))()
+ 
